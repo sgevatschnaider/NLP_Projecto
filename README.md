@@ -1,9 +1,9 @@
 
-# 🧠 Proyecto de NLP
+# Proyecto de NLP
 
 Este proyecto se enfoca en el **Procesamiento de Lenguaje Natural (NLP)** utilizando técnicas avanzadas de **machine learning** y **deep learning** para tareas como análisis de sentimiento, clasificación de texto, y generación de lenguaje. Usamos herramientas como `nltk`, `spacy` y `transformers`.
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```plaintext
 ├── data/
@@ -21,14 +21,14 @@ Este proyecto se enfoca en el **Procesamiento de Lenguaje Natural (NLP)** utiliz
 └── README.md              # Descripción del proyecto
 ```
 
-## 🚀 Objetivos del Proyecto
+## Objetivos del Proyecto
 
 - **Preprocesamiento de texto:** Limpieza, tokenización, lematización y eliminación de stopwords.
 - **Modelos de clasificación:** Entrenar modelos supervisados como Naive Bayes, SVM y transformers para la clasificación de texto.
 - **Generación de texto:** Implementar modelos avanzados como GPT para la creación automática de texto coherente.
 - **Evaluación de modelos:** Medir el rendimiento con métricas como accuracy, precision, recall y F1 score.
 
-## 📦 Instalación
+## Instalación
 
 Para ejecutar este proyecto, clona el repositorio y luego instala las dependencias usando `pip`:
 
@@ -108,7 +108,7 @@ Las métricas de evaluación y gráficos de rendimiento se almacenan automática
 - Reportes de clasificación.
 - Comparación de rendimiento entre modelos.
 
-## 🌍 Contribuciones
+## Contribuciones
 
 Si deseas contribuir a este proyecto:
 
@@ -118,7 +118,7 @@ Si deseas contribuir a este proyecto:
 4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
 5. Abre un pull request.
 
-## ✨ Futuras Mejoras
+## Futuras Mejoras
 
 - Implementar **transfer learning** utilizando modelos preentrenados como BERT y GPT.
 - Añadir funciones de **resúmenes automáticos** y técnicas avanzadas de **traducción automática**.
